@@ -1,1 +1,1 @@
-Witam wszystkich
+int darek = 5;
